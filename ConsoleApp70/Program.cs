@@ -80,20 +80,20 @@
 //switch (gpa2)
 //{
 //    case float m when (m > 90):
-//        console.writeline("a");
+//        Console.WriteLine("a");
 //        break;
 //    case float m when (m > 80):
-//        console.writeline("b");
+//        Console.WriteLine("b");
 //        break;
 
 //    case float m when (m > 60):
-//        console.writeline("c");
+//        Console.WriteLine("c");
 //        break;
 //    case float m when (m > 50):
-//        console.writeline("f");
+//        Console.WriteLine("f");
 //        break;
 //    default:
-//        console.write("mission impossible");
+//        Console.WriteLine("mission impossible");
 //        break;
 
 

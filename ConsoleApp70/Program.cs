@@ -1,4 +1,5 @@
-﻿//int num = 371;
+#region task1
+//int num = 371;
 //int subNum1 = num % 10;
 //int subNum2 = ((num - subNum1) % 100) / 10;
 //int subNum3 = num / 100;
@@ -12,6 +13,7 @@
 //{
 //    Console.WriteLine("tekdir");
 //};
+#endregion
 
 
 
@@ -22,7 +24,7 @@
 
 
 
-
+#region task2
 //int number = 4786;
 //int subNumber1 = number / 1000;
 //int subNumber2 = (number % 1000) / 100;
@@ -30,10 +32,11 @@
 //int subNumber4 = ((number % 1000) % 100) % 10;
 //int numAvarege = (subNumber1 + subNumber2 + subnumber3 + subNumber4) / 4;
 //Console.WriteLine(numAvarege);
+#endregion
 
 
 
-
+#region task3
 //int number = 372;
 //int subNum1 = number / 100;
 //int subNum2 = (number / 10) % 10;
@@ -47,12 +50,12 @@
 //{
 //    Console.WriteLine("sumSubNumbers can't divide by 3 and 5");
 //}
+#endregion
 
 
 
 
-
-
+#region task4_way1
 //float gpa = 78.4f;
 //switch (gpa)
 //{
@@ -66,12 +69,13 @@
 //        break;
 
 //}
+#endregion
 
 
 
 
 
-
+#region task4_way2
 //float gpa2 = 60.5f;
 //switch (gpa2)
 //{
@@ -94,9 +98,10 @@
 
 
 //}
+#endregion
 
 
-
+#region task4_way3
 //using System.Diagnostics;
 
 //float gpa3 = 50.9f; 
@@ -106,6 +111,7 @@
 //    <= 51=>"Student havent passed exam"
 //};
 //Console.WriteLine(message);
+#endregion
 
 
 
@@ -120,7 +126,7 @@
 
 
 
-
+#region task5
 //int a = 8;
 //int b = 3;
 //int sum=0;
@@ -133,10 +139,10 @@
 //    sum = a - b;
 //}
 //Console.WriteLine(sum);
+#endregion
 
 
-
-
+#region task6
 //int salary = 3000;
 //int credit = 20000;
 //int annualsalary = salary * 12;
@@ -149,3 +155,4 @@
 //{
 //    Console.WriteLine("Successful");
 //}
+#endregion
